@@ -1,1 +1,1 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+this is a website that is desined for little pictues entertaimnet production
